@@ -7,6 +7,7 @@
 **SOLUTION**:
 
 1. Terminology:
+
     a) Column that is beeing hidden depending on the variable: X
 
     b) Column that we want to expand when column X is hidden: A
