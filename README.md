@@ -2,7 +2,7 @@
 
 **REQUST**: Hide the column in the tablix depending on the parameter.
 
-**PROBLEM**: Title, header footer and other elements are not alligned when column is hidden.
+**PROBLEM**: Title, header, footer and other elements are not alligned with the tablix when column is hidden.
 
 **SOLUTION**:
 
