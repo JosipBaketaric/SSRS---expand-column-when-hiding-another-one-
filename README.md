@@ -1,10 +1,19 @@
 # SSRS: expand column while hiding another one
 
-**REQUST**: Hide the column in the tablix depending on the parameter.
 
-**PROBLEM**: Title, header, footer and other elements are not alligned with the tablix when column is hidden.
+**REQUST**
 
-**SOLUTION**:
+Hide the column in the tablix depending on the parameter.
+
+
+
+**PROBLEM**
+
+Title, header, footer and other elements are not alligned with the tablix when column is hidden.
+
+
+
+**SOLUTION**
 
 1. Terminology:
 
@@ -16,7 +25,8 @@
 4. When showing column X, hide the column B and show the column A
 
 
-**RESULT**:
+**RESULT**
+
 Report will look like this:
 
 ![image](https://user-images.githubusercontent.com/17928370/120065960-57fefc80-c074-11eb-8e9e-24ec49f2a1de.png)
