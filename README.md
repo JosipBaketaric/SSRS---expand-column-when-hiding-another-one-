@@ -1,4 +1,4 @@
-# SSRS---expand-column-when-hiding-another-one-
+# SSRS: expand-column-when-hiding-another-one-
 
 **REQUST**: Hide the column in the tablix depending on the parameter.
 
