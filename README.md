@@ -8,9 +8,9 @@
 
 1. Terminology:
 
-    a) Column that is beeing hidden depending on the variable: X
+    a) Column that is beeing hidden depending on the variable is named: X
 
-    b) Column that we want to expand when column X is hidden: A
+    b) Column that we want to expand when column X is hidden is named: A
 2. Duplicate column A and set the width of a new column (column B) to A.width + x.width
 3. When hiding column X, hide the column A and show the column B
 4. When showing column X, hide the column B and show the column A
